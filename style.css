@@ -364,3 +364,12 @@ section h2::after {
 section {
     scroll-margin-top: 85px;
 }
+/* Reduce spacing between Education and Contact */
+#education {
+    padding-bottom: 30px;
+    min-height: auto;
+}
+
+#contact {
+    padding-top: 30px;
+}
